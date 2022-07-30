@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bootcamp AITC</title>
+</head>
+<body>
+  <header>
+    <h1>Data Mahasiswa</h1>
+    <a href="/">Tambah +</a>
+  </header>
+  <main>
+    <div>
+      <input type="text" placeholder="cari nama">
+      <div>
+        <article>
+          <div>
+            <img src="./assets/images/profile-1.png" alt="B.A. Baracus">
+            <span>IPK 3.5</span>
+          </div>
+          <div>
+            <p>B.A. Baracus</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis aperiam, alias nobis quae laborum dolores harum excepturi obcaecati consequatur aut mollitia eum possimus sapiente beatae tempore. Fugit unde vitae delectus!</p>
+          </div>
+        </article>
+      </div>
+      <div>
+        <article>
+          <div>
+            <img src="./assets/images/profile-2.png" alt="Theodore T.C.">
+            <span>IPK 3.2</span>
+          </div>
+          <div>
+            <p>Theodore T.C. Calv...</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis aperiam, alias nobis quae laborum dolores harum excepturi obcaecati consequatur aut mollitia eum possimus sapiente beatae tempore. Fugit unde vitae delectus!</p>
+          </div>
+        </article>
+      </div>
+      <div>
+        <article>
+          <div>
+            <img src="./assets/images/profile-3.png" alt="Sledge Hammer">
+            <span>IPK 3.01</span>
+          </div>
+          <div>
+            <p>Sledge Hammer</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis aperiam, alias nobis quae laborum dolores harum excepturi obcaecati consequatur aut mollitia eum possimus sapiente beatae tempore. Fugit unde vitae delectus!</p>
+          </div>
+        </article>
+      </div>
+      <div>
+        <article>
+          <div>
+            <img src="./assets/images/profile-4.png" alt="Peter Thornton">
+            <span>IPK 3.1</span>
+          </div>
+          <div>
+            <p>Peter Thornton</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis aperiam, alias nobis quae laborum dolores harum excepturi obcaecati consequatur aut mollitia eum possimus sapiente beatae tempore. Fugit unde vitae delectus!</p>
+          </div>
+        </article>
+      </div>
+      <div>
+        <article>
+          <div>
+            <img src="./assets/images/profile-5.png" alt="Lynn Tanner">
+            <span>IPK 2.9</span>
+          </div>
+          <div>
+            <p>Lynn Tanner</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis aperiam, alias nobis quae laborum dolores harum excepturi obcaecati consequatur aut mollitia eum possimus sapiente beatae tempore. Fugit unde vitae delectus!</p>
+          </div>
+        </article>
+      </div>
+      <div>
+        <article>
+          <div>
+            <img src="./assets/images/profile-6.png" alt="April Curtis">
+            <span>IPK 3.32</span>
+          </div>
+          <div>
+            <p>April Curtis</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis aperiam, alias nobis quae laborum dolores harum excepturi obcaecati consequatur aut mollitia eum possimus sapiente beatae tempore. Fugit unde vitae delectus!</p>
+          </div>
+        </article>
+      </div>
+      <div>
+        <article>
+          <div>
+            <img src="./assets/images/profile-7.png" alt="Angela Bower">
+            <span>IPK 3.92</span>
+          </div>
+          <div>
+            <p>Angela Bower</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis aperiam, alias nobis quae laborum dolores harum excepturi obcaecati consequatur aut mollitia eum possimus sapiente beatae tempore. Fugit unde vitae delectus!</p>
+          </div>
+        </article>
+      </div>
+      <div>
+        <article>
+          <div>
+            <img src="./assets/images/profile-8.png" alt="Jonathan Higgins">
+            <span>IPK 2.7</span>
+          </div>
+          <div>
+            <p>Jonathan Higgins</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis aperiam, alias nobis quae laborum dolores harum excepturi obcaecati consequatur aut mollitia eum possimus sapiente beatae tempore. Fugit unde vitae delectus!</p>
+          </div>
+        </article>
+      </div>
+    </div>
+  </main>
+  <footer>
+    <p>AITC Bootcamp</p>
+  </footer>
+</body>
+</html>
